@@ -7,53 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D7828CF4272A32680052ED1C /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = D7828CF2272A32680052ED1C /* locations.json */; };
-		D7828CF5272A32680052ED1C /* locations.json in Resources */ = {isa = PBXBuildFile; fileRef = D7828CF2272A32680052ED1C /* locations.json */; };
-		D7828CF6272A32680052ED1C /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = D7828CF3272A32680052ED1C /* tips.json */; };
-		D7828CF7272A32680052ED1C /* tips.json in Resources */ = {isa = PBXBuildFile; fileRef = D7828CF3272A32680052ED1C /* tips.json */; };
-		D7828CF9272E0F790052ED1C /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CF8272E0F790052ED1C /* Location.swift */; };
-		D7828CFA272E0F790052ED1C /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CF8272E0F790052ED1C /* Location.swift */; };
-		D7828CFC272F65D90052ED1C /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CFB272F65D90052ED1C /* Locations.swift */; };
-		D7828CFD272F65D90052ED1C /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CFB272F65D90052ED1C /* Locations.swift */; };
-		D7828CFF2730D3310052ED1C /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CFE2730D3310052ED1C /* WorldView.swift */; };
-		D7828D002730D3310052ED1C /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828CFE2730D3310052ED1C /* WorldView.swift */; };
-		D7828D02273371860052ED1C /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828D01273371860052ED1C /* Tip.swift */; };
-		D7828D03273371860052ED1C /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828D01273371860052ED1C /* Tip.swift */; };
-		D7828D05273372B80052ED1C /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828D04273372B80052ED1C /* TipsView.swift */; };
-		D7828D06273372B80052ED1C /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7828D04273372B80052ED1C /* TipsView.swift */; };
-		D7DFB9C62728E33C00141A4E /* TrekrApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DFB9B62728E33B00141A4E /* TrekrApp.swift */; };
-		D7DFB9C72728E33C00141A4E /* TrekrApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DFB9B62728E33B00141A4E /* TrekrApp.swift */; };
-		D7DFB9C82728E33C00141A4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DFB9B72728E33B00141A4E /* ContentView.swift */; };
-		D7DFB9C92728E33C00141A4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7DFB9B72728E33B00141A4E /* ContentView.swift */; };
-		D7DFB9CA2728E33C00141A4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7DFB9B82728E33C00141A4E /* Assets.xcassets */; };
-		D7DFB9CB2728E33C00141A4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7DFB9B82728E33C00141A4E /* Assets.xcassets */; };
+		D7A5BA2D275D9D4A0068AEEA /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5BA1D275D9D480068AEEA /* WordScrambleApp.swift */; };
+		D7A5BA2E275D9D4A0068AEEA /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5BA1D275D9D480068AEEA /* WordScrambleApp.swift */; };
+		D7A5BA2F275D9D4A0068AEEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5BA1E275D9D480068AEEA /* ContentView.swift */; };
+		D7A5BA30275D9D4A0068AEEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5BA1E275D9D480068AEEA /* ContentView.swift */; };
+		D7A5BA31275D9D4A0068AEEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7A5BA1F275D9D490068AEEA /* Assets.xcassets */; };
+		D7A5BA32275D9D4A0068AEEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7A5BA1F275D9D490068AEEA /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D7828CF2272A32680052ED1C /* locations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = locations.json; sourceTree = "<group>"; };
-		D7828CF3272A32680052ED1C /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
-		D7828CF8272E0F790052ED1C /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
-		D7828CFB272F65D90052ED1C /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
-		D7828CFE2730D3310052ED1C /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
-		D7828D01273371860052ED1C /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
-		D7828D04273372B80052ED1C /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
-		D7DFB9B62728E33B00141A4E /* TrekrApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrApp.swift; sourceTree = "<group>"; };
-		D7DFB9B72728E33B00141A4E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D7DFB9B82728E33C00141A4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D7DFB9BD2728E33C00141A4E /* Trekr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trekr.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7DFB9C32728E33C00141A4E /* Trekr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trekr.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7DFB9C52728E33C00141A4E /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		D7A5BA1D275D9D480068AEEA /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
+		D7A5BA1E275D9D480068AEEA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D7A5BA1F275D9D490068AEEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D7A5BA24275D9D4A0068AEEA /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7A5BA2A275D9D4A0068AEEA /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7A5BA2C275D9D4A0068AEEA /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D7DFB9BA2728E33C00141A4E /* Frameworks */ = {
+		D7A5BA21275D9D4A0068AEEA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D7DFB9C02728E33C00141A4E /* Frameworks */ = {
+		D7A5BA27275D9D4A0068AEEA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -63,45 +42,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D7DFB9B02728E33B00141A4E = {
+		D7A5BA17275D9D480068AEEA = {
 			isa = PBXGroup;
 			children = (
-				D7DFB9B52728E33B00141A4E /* Shared */,
-				D7DFB9C42728E33C00141A4E /* macOS */,
-				D7DFB9BE2728E33C00141A4E /* Products */,
+				D7A5BA1C275D9D480068AEEA /* Shared */,
+				D7A5BA2B275D9D4A0068AEEA /* macOS */,
+				D7A5BA25275D9D4A0068AEEA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D7DFB9B52728E33B00141A4E /* Shared */ = {
+		D7A5BA1C275D9D480068AEEA /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				D7DFB9B62728E33B00141A4E /* TrekrApp.swift */,
-				D7828CFE2730D3310052ED1C /* WorldView.swift */,
-				D7DFB9B72728E33B00141A4E /* ContentView.swift */,
-				D7828CF8272E0F790052ED1C /* Location.swift */,
-				D7828CFB272F65D90052ED1C /* Locations.swift */,
-				D7DFB9B82728E33C00141A4E /* Assets.xcassets */,
-				D7828CF2272A32680052ED1C /* locations.json */,
-				D7828CF3272A32680052ED1C /* tips.json */,
-				D7828D01273371860052ED1C /* Tip.swift */,
-				D7828D04273372B80052ED1C /* TipsView.swift */,
+				D7A5BA1D275D9D480068AEEA /* WordScrambleApp.swift */,
+				D7A5BA1E275D9D480068AEEA /* ContentView.swift */,
+				D7A5BA1F275D9D490068AEEA /* Assets.xcassets */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		D7DFB9BE2728E33C00141A4E /* Products */ = {
+		D7A5BA25275D9D4A0068AEEA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D7DFB9BD2728E33C00141A4E /* Trekr.app */,
-				D7DFB9C32728E33C00141A4E /* Trekr.app */,
+				D7A5BA24275D9D4A0068AEEA /* WordScramble.app */,
+				D7A5BA2A275D9D4A0068AEEA /* WordScramble.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D7DFB9C42728E33C00141A4E /* macOS */ = {
+		D7A5BA2B275D9D4A0068AEEA /* macOS */ = {
 			isa = PBXGroup;
 			children = (
-				D7DFB9C52728E33C00141A4E /* macOS.entitlements */,
+				D7A5BA2C275D9D4A0068AEEA /* macOS.entitlements */,
 			);
 			path = macOS;
 			sourceTree = "<group>";
@@ -109,59 +81,59 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D7DFB9BC2728E33C00141A4E /* Trekr (iOS) */ = {
+		D7A5BA23275D9D4A0068AEEA /* WordScramble (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D7DFB9CE2728E33C00141A4E /* Build configuration list for PBXNativeTarget "Trekr (iOS)" */;
+			buildConfigurationList = D7A5BA35275D9D4A0068AEEA /* Build configuration list for PBXNativeTarget "WordScramble (iOS)" */;
 			buildPhases = (
-				D7DFB9B92728E33C00141A4E /* Sources */,
-				D7DFB9BA2728E33C00141A4E /* Frameworks */,
-				D7DFB9BB2728E33C00141A4E /* Resources */,
+				D7A5BA20275D9D4A0068AEEA /* Sources */,
+				D7A5BA21275D9D4A0068AEEA /* Frameworks */,
+				D7A5BA22275D9D4A0068AEEA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Trekr (iOS)";
-			productName = "Trekr (iOS)";
-			productReference = D7DFB9BD2728E33C00141A4E /* Trekr.app */;
+			name = "WordScramble (iOS)";
+			productName = "WordScramble (iOS)";
+			productReference = D7A5BA24275D9D4A0068AEEA /* WordScramble.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D7DFB9C22728E33C00141A4E /* Trekr (macOS) */ = {
+		D7A5BA29275D9D4A0068AEEA /* WordScramble (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D7DFB9D12728E33C00141A4E /* Build configuration list for PBXNativeTarget "Trekr (macOS)" */;
+			buildConfigurationList = D7A5BA38275D9D4A0068AEEA /* Build configuration list for PBXNativeTarget "WordScramble (macOS)" */;
 			buildPhases = (
-				D7DFB9BF2728E33C00141A4E /* Sources */,
-				D7DFB9C02728E33C00141A4E /* Frameworks */,
-				D7DFB9C12728E33C00141A4E /* Resources */,
+				D7A5BA26275D9D4A0068AEEA /* Sources */,
+				D7A5BA27275D9D4A0068AEEA /* Frameworks */,
+				D7A5BA28275D9D4A0068AEEA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Trekr (macOS)";
-			productName = "Trekr (macOS)";
-			productReference = D7DFB9C32728E33C00141A4E /* Trekr.app */;
+			name = "WordScramble (macOS)";
+			productName = "WordScramble (macOS)";
+			productReference = D7A5BA2A275D9D4A0068AEEA /* WordScramble.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D7DFB9B12728E33B00141A4E /* Project object */ = {
+		D7A5BA18275D9D480068AEEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					D7DFB9BC2728E33C00141A4E = {
-						CreatedOnToolsVersion = 13.0;
+					D7A5BA23275D9D4A0068AEEA = {
+						CreatedOnToolsVersion = 13.1;
 					};
-					D7DFB9C22728E33C00141A4E = {
-						CreatedOnToolsVersion = 13.0;
+					D7A5BA29275D9D4A0068AEEA = {
+						CreatedOnToolsVersion = 13.1;
 					};
 				};
 			};
-			buildConfigurationList = D7DFB9B42728E33B00141A4E /* Build configuration list for PBXProject "Trekr" */;
+			buildConfigurationList = D7A5BA1B275D9D480068AEEA /* Build configuration list for PBXProject "WordScramble" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -169,73 +141,59 @@
 				en,
 				Base,
 			);
-			mainGroup = D7DFB9B02728E33B00141A4E;
-			productRefGroup = D7DFB9BE2728E33C00141A4E /* Products */;
+			mainGroup = D7A5BA17275D9D480068AEEA;
+			productRefGroup = D7A5BA25275D9D4A0068AEEA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D7DFB9BC2728E33C00141A4E /* Trekr (iOS) */,
-				D7DFB9C22728E33C00141A4E /* Trekr (macOS) */,
+				D7A5BA23275D9D4A0068AEEA /* WordScramble (iOS) */,
+				D7A5BA29275D9D4A0068AEEA /* WordScramble (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D7DFB9BB2728E33C00141A4E /* Resources */ = {
+		D7A5BA22275D9D4A0068AEEA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7828CF4272A32680052ED1C /* locations.json in Resources */,
-				D7DFB9CA2728E33C00141A4E /* Assets.xcassets in Resources */,
-				D7828CF6272A32680052ED1C /* tips.json in Resources */,
+				D7A5BA31275D9D4A0068AEEA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D7DFB9C12728E33C00141A4E /* Resources */ = {
+		D7A5BA28275D9D4A0068AEEA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7828CF5272A32680052ED1C /* locations.json in Resources */,
-				D7DFB9CB2728E33C00141A4E /* Assets.xcassets in Resources */,
-				D7828CF7272A32680052ED1C /* tips.json in Resources */,
+				D7A5BA32275D9D4A0068AEEA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D7DFB9B92728E33C00141A4E /* Sources */ = {
+		D7A5BA20275D9D4A0068AEEA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7DFB9C82728E33C00141A4E /* ContentView.swift in Sources */,
-				D7828CF9272E0F790052ED1C /* Location.swift in Sources */,
-				D7828CFF2730D3310052ED1C /* WorldView.swift in Sources */,
-				D7828D02273371860052ED1C /* Tip.swift in Sources */,
-				D7828D05273372B80052ED1C /* TipsView.swift in Sources */,
-				D7828CFC272F65D90052ED1C /* Locations.swift in Sources */,
-				D7DFB9C62728E33C00141A4E /* TrekrApp.swift in Sources */,
+				D7A5BA2F275D9D4A0068AEEA /* ContentView.swift in Sources */,
+				D7A5BA2D275D9D4A0068AEEA /* WordScrambleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D7DFB9BF2728E33C00141A4E /* Sources */ = {
+		D7A5BA26275D9D4A0068AEEA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7DFB9C92728E33C00141A4E /* ContentView.swift in Sources */,
-				D7828CFA272E0F790052ED1C /* Location.swift in Sources */,
-				D7828D002730D3310052ED1C /* WorldView.swift in Sources */,
-				D7828D03273371860052ED1C /* Tip.swift in Sources */,
-				D7828D06273372B80052ED1C /* TipsView.swift in Sources */,
-				D7828CFD272F65D90052ED1C /* Locations.swift in Sources */,
-				D7DFB9C72728E33C00141A4E /* TrekrApp.swift in Sources */,
+				D7A5BA30275D9D4A0068AEEA /* ContentView.swift in Sources */,
+				D7A5BA2E275D9D4A0068AEEA /* WordScrambleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D7DFB9CC2728E33C00141A4E /* Debug */ = {
+		D7A5BA33275D9D4A0068AEEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -294,7 +252,7 @@
 			};
 			name = Debug;
 		};
-		D7DFB9CD2728E33C00141A4E /* Release */ = {
+		D7A5BA34275D9D4A0068AEEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -346,7 +304,7 @@
 			};
 			name = Release;
 		};
-		D7DFB9CF2728E33C00141A4E /* Debug */ = {
+		D7A5BA36275D9D4A0068AEEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -367,8 +325,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.Trekr;
-				PRODUCT_NAME = Trekr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.WordScramble;
+				PRODUCT_NAME = WordScramble;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -376,7 +334,7 @@
 			};
 			name = Debug;
 		};
-		D7DFB9D02728E33C00141A4E /* Release */ = {
+		D7A5BA37275D9D4A0068AEEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -397,8 +355,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.Trekr;
-				PRODUCT_NAME = Trekr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.WordScramble;
+				PRODUCT_NAME = WordScramble;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -407,7 +365,7 @@
 			};
 			name = Release;
 		};
-		D7DFB9D22728E33C00141A4E /* Debug */ = {
+		D7A5BA39275D9D4A0068AEEA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -427,15 +385,15 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.Trekr;
-				PRODUCT_NAME = Trekr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.WordScramble;
+				PRODUCT_NAME = WordScramble;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		D7DFB9D32728E33C00141A4E /* Release */ = {
+		D7A5BA3A275D9D4A0068AEEA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -455,8 +413,8 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.Trekr;
-				PRODUCT_NAME = Trekr;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rioweber.WordScramble;
+				PRODUCT_NAME = WordScramble;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -466,34 +424,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D7DFB9B42728E33B00141A4E /* Build configuration list for PBXProject "Trekr" */ = {
+		D7A5BA1B275D9D480068AEEA /* Build configuration list for PBXProject "WordScramble" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7DFB9CC2728E33C00141A4E /* Debug */,
-				D7DFB9CD2728E33C00141A4E /* Release */,
+				D7A5BA33275D9D4A0068AEEA /* Debug */,
+				D7A5BA34275D9D4A0068AEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D7DFB9CE2728E33C00141A4E /* Build configuration list for PBXNativeTarget "Trekr (iOS)" */ = {
+		D7A5BA35275D9D4A0068AEEA /* Build configuration list for PBXNativeTarget "WordScramble (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7DFB9CF2728E33C00141A4E /* Debug */,
-				D7DFB9D02728E33C00141A4E /* Release */,
+				D7A5BA36275D9D4A0068AEEA /* Debug */,
+				D7A5BA37275D9D4A0068AEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D7DFB9D12728E33C00141A4E /* Build configuration list for PBXNativeTarget "Trekr (macOS)" */ = {
+		D7A5BA38275D9D4A0068AEEA /* Build configuration list for PBXNativeTarget "WordScramble (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7DFB9D22728E33C00141A4E /* Debug */,
-				D7DFB9D32728E33C00141A4E /* Release */,
+				D7A5BA39275D9D4A0068AEEA /* Debug */,
+				D7A5BA3A275D9D4A0068AEEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D7DFB9B12728E33B00141A4E /* Project object */;
+	rootObject = D7A5BA18275D9D480068AEEA /* Project object */;
 }
